@@ -20,4 +20,4 @@ Design systems — how to build and scale them properly.
 
 ### let's connect
 
-[feroxbyte.com](https://feroxbyte.dev) · [email](mailto:hello@feroxbyte.dev) · [linkedin](https://www.linkedin.com/in/batuhandmr/) · [x](https://x.com/feroxbyte)
+[feroxbyte.dev](https://feroxbyte.dev) · [email](mailto:hello@feroxbyte.dev) · [linkedin](https://www.linkedin.com/in/batuhandmr/) · [x](https://x.com/feroxbyte)
